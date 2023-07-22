@@ -66,7 +66,7 @@ Contributions to this repository are welcome. If you find any issues or want to 
 ## Contact
 If you have any questions or need further assistance, please feel free to contact me:
 
-Email: jyotiranjan9776@gmail.com
+Email: [jyotiranjan9776@gmail.com](mailto:jyotiranjan9776@gmail.com)
 
 LinkedIn: [JYOTI RANJAN BHOI](https://www.linkedin.com/in/jyoti-ranjan-bhoi/)
 
