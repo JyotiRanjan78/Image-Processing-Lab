@@ -1,0 +1,10 @@
+clc; clear; 
+close all;
+im1 = imread('circles.png');
+subplot(2,2,1), imshow(im1), title('Original Image');
+se1 = strel('disk', 10);
+ero = imerode(im1, se1);
+dil = imdilate(im1, se1);
+subplot(2,2,3), imshow(im1 - ero), title('Boundary using erosion') ;
+subplot(2,2,2), imshow(dil - im1), title('Boundary using dilation') ;
+subplot(2,2,4), imshow(dil - ero), title('Boundary using dilation & erosion') ;

@@ -1,0 +1,10 @@
+clc; 
+clear; 
+close all;
+im1 = imread('circles.png');
+subplot(1,3,1), imshow(im1), title('Original Image');
+se1 = strel('disk', 10);
+ero = imerode(im1, se1);
+dil = imdilate(im1, se1);
+subplot(1,3,2), imshow(imopen(im1,se1)), title('opening operation');
+subplot(1,3,3), imshow(imclose(im1,se1)), title('closing operation') ;
