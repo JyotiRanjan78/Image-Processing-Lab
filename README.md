@@ -1,7 +1,7 @@
 # Fundamentals of Image Processing Lab
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 <p align="center">
-    <img width="700" height="auto" src="images/Image Processing Lab.png" alt="Alphanumeric Logo" />
+    <img width="700" height="auto" src="images/Image Processing Lab_6.png" alt="Alphanumeric Logo" />
 </p>
 This repository contains lab codes, explanations, and evaluations for the Fundamentals of Image Processing course. The labs are implemented using MATLAB and Simulink.
 
@@ -13,7 +13,6 @@ This repository contains lab codes, explanations, and evaluations for the Fundam
 - [Usage](#usage)
 - [MATLAB and Simulink Versions](#matlab-and-simulink-versions)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 
 ## Introduction
@@ -62,12 +61,5 @@ The lab codes are written and tested on MATLAB and Simulink version R2022a. Comp
 ## Contributing
 
 Contributions to this repository are welcome. If you find any issues or want to add more labs, feel free to submit a pull request.
-
-## Contact
-If you have any questions or need further assistance, please feel free to contact me:
-
-Email: [jyotiranjan9776@gmail.com](mailto:jyotiranjan9776@gmail.com)
-
-LinkedIn: [JYOTI RANJAN BHOI](https://www.linkedin.com/in/jyoti-ranjan-bhoi/)
 
 For a detailed explanation, you can refer to this [link](https://pdfhost.io/v/Jd30YQn.6_Image_Processing_Lab)
